@@ -1,4 +1,4 @@
-#Life might be rapid - Rises will end will falling
+# Life might be rapid - Rises will end will falling
 
 ## 1
 The camera slowly moves across a large German city at Christmas. It is Christmas Eve. The camera flies through a window and shows a festively decorated living room. Children run happily through the room with their just unwrapped presents. Adults are chatting and drinking wine. The camera flies through the window to the neighboring apartment across the street on the 2nd floor. A glint from the apartment above the previous apartment is visible.
