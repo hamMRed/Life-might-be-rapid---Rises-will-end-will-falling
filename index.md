@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+#Life might be rapid - Rises will end will falling
 
-You can use the [editor on GitHub](https://github.com/hamMRed/skript/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## 1
+The camera slowly moves across a large German city at Christmas. It is Christmas Eve. The camera flies through a window and shows a festively decorated living room. Children run happily through the room with their just unwrapped presents. Adults are chatting and drinking wine. The camera flies through the window to the neighboring apartment across the street on the 2nd floor. A glint from the apartment above the previous apartment is visible.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 2
+The camera flies to the second apartment. There the children are older and just unwrapping their gifts, which they also expected. An iPhone for the 14-year-old son. The older daughter gets a laptop for her studies.  The adults' conversations are audible. They talk about family trivial topics. Work, what the last year has brought for great purchases and business trips and how good the food is. All in all, an average Christmas.
+One is content with what one has. The flash from the passing apartment is easily seen again at the end of the scene as the camera pans out.
 
-### Markdown
+## 3
+It's December 2019, trade fair time and the protagonist - Hannes - performs on an international stage. With him, his best friend. He sits in a wheelchair in front of the stage and listens to the presentation. Due to his multiple sclerosis, he sits in a wheelchair. Everyday life gets to him, which is especially noticeable after long flights. The talk is about the opportunities of digitalization. A lot of empty buzzwords, but the audience - the majority consisting of company representatives and people close to politics - is enthusiastic. The crowd is chattering away and Hannes once again feels confirmed that he is doing the right thing. But in the euphoric crowd, the few skeptics who see through the consequences of the inzinated lectures on the everyday life of all, do not stand out. The camera deliberately shows a few skeptical corners of the mouth and a section of a cell phone on which a short message is being transmitted in a foreign language (the message is not translated). Afterwards, the camera pans back to Hannes, who bows deeply in gratitude for the applause.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 4 
+The camera passes through a dark and provisionally furnished room illuminated by screens. There is silence. Some, unrecognizable, people are sitting in front of the screens and others are walking around the room in complete silence. A sound is heard and the camera zooms in on a screen where the previously sent message from the convention center arrives (It is not translated). After that, all the individuals in the room sit down at their places and start working on their systems in silence. It is not apparent what activity they are engaged in. Only on one screen a leaf blower can be seen.
 
-```markdown
-Syntax highlighted code block
+## 5
+The camera shows the end of the event. Hannes shakes hands with other speakers and they pat each other on the back. As if a great contribution to intercultural understanding had been made. The audience and the speakers mingle as they walk out and join together in small groups in front of the lecture hall. There they socialize over snacks and champagne. "Today we have a unique opportunity to overcome intercultural differences in the sustainable design of our cities through digitalization[...]" - Hannes explains to an interested audience member, who nods smilingly. 
+It rings. A message on Hannes' iPhone. He gets a picture of his family and a message saying that the family congratulates him for his successful work but also that they miss him. Hannes interrupts the conversation briefly. "Please excuse me for a moment, I have an important business matter to attend to here." The listener and his young companions nod in agreement. The glances of Hannes and Martina - one of the interested listener's students - do not break for a short while. Hannes turns around, walks out of the lobby and starts a video call with his family. "Hey my dears, [,,]. It's not easy without you, but here I have the chance to set the course for the future with my work. But it's a lot of work and I have to use the time here intensively. Later I have a business dinner with local designers, so I probably won't call tonight. [...]." (The camera shows a close-up of Hannes at the end of the conversation. His face looks emphatic while his eyes have a focused look. Is it just his rhetorical skills or true emotions being sent home via the digital images?)
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hamMRed/skript/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
